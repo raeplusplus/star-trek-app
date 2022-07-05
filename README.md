@@ -1,9 +1,9 @@
-# My Awesome Project
+# Federation Field Guide To Aliens
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
 **Link to project:** https://federationfieldguide.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://github.com/raeplusplus/star-trek-app/blob/main/star-trek-app.gif)
 
 ## How It's Made:
 
