@@ -9,7 +9,7 @@ A field guide database to various star trek aliens
 
 **Tech used:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I started off by building the API separately, then created this client side repo. When you type in an alien name and click 'Get Info', it responds with the alien's data from my MongoDB database.
 
 ## Optimizations
 
