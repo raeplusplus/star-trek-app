@@ -12,22 +12,20 @@ A field guide database to various star trek aliens
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Updated the data source from a class in the javascript server file and the data is now hosted in a MongoDB collection. Refactored code to request the data from MongoDB database instead of from my API's javascript. This way is much faster and allows for more flexibility when adding in new documents.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+After working on this project for a few hours, I was nearly done and couldn't figure out why my requests weren't working. I double checked that everything had the correct spelling and syntax in my code about ten times and couldn't find the error. The next morning, I realized that my code was looking for 'name' instead of 'speciesName' in my database. Once I fixed that, everything worked perfectly! 
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Yggdrasil:** https://github.com/raeplusplus/Yggdrasil
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**EA Internship - Vaxman Game:** https://github.com/raeplusplus/ea-vaxman-py
 
 
 
