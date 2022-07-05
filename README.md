@@ -1,5 +1,5 @@
 # Federation Field Guide To Aliens
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A field guide database to various star trek aliens 
 
 **Link to project:** https://federationfieldguide.netlify.app/
 
