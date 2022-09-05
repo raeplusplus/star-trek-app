@@ -11,6 +11,19 @@ A field guide database to various star trek aliens
 
 I started off by building the API separately, then created this client side repo. When you type in an alien name and click 'Get Info', it responds with the alien's data from my MongoDB database.
 
+## How To Use The Site
+
+- Type the name of an alien that you would like to look up and click search! Currently the database accepts the following entries, inclusive of the "s"!
+  - Vulcans
+  - Romulans
+  - The (Borg)
+  - Humans
+  - Klingons
+  - Gorn
+  - Trill
+  
+- <strong>Mispelling the alien name or entering a name not on this list will default the response to "Humans"</strong>
+
 ## Optimizations
 
 Updated the data source from a class in the javascript server file and the data is now hosted in a MongoDB collection. Refactored code to request the data from MongoDB database instead of from my API's javascript. This way is much faster and allows for more flexibility when adding in new documents.
@@ -20,10 +33,10 @@ Updated the data source from a class in the javascript server file and the data 
 After working on this project for a few hours, I was nearly done and couldn't figure out why my requests weren't working. I double checked that everything had the correct spelling and syntax in my code about ten times and couldn't find the error. The next morning, I realized that my code was looking for 'name' instead of 'speciesName' in my database. Once I fixed that, everything worked perfectly! 
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at my other projects:
 
 
-**Yggdrasil:** https://github.com/raeplusplus/Yggdrasil
+**Voodoonauts:** https://github.com/raeplusplus/voodoonauts
 
 **EA Internship - Vaxman Game:** https://github.com/raeplusplus/ea-vaxman-py
 
